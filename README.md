@@ -12,3 +12,8 @@ bundle install --path vendor/bundle
 # serve local
 bundle exec jekyll serve
 ```
+
+### plugin
+
+* analytics - https://analytics.google.com/
+* comment - https://dennyx.disqus.com/admin/
