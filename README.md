@@ -4,3 +4,11 @@
 
 基于 https://github.com/kitian616/jekyll-TeXt-theme 
 
+### 本地环境
+
+```shell
+# build dependencies
+bundle install --path vendor/bundle
+# serve local
+bundle exec jekyll serve
+```
